@@ -9,13 +9,14 @@ Jawa Icon Theme adalah sebuah tema ikon bertema budaya Jawa untuk lingkungan des
 
     ### Palet Warna
 
-    | Warna | Kode Hex | Contoh |
-    |-------|---------|--------|
-    | **Coklat Kayu** | `#8D5524` | ![#8D5524](https://via.placeholder.com/20/8D5524/000000?text=+) |
-    | **Emas Klasik** | `#FFD700` | ![#FFD700](https://via.placeholder.com/20/FFD700/000000?text=+) |
-    | **Merah Bata** | `#E63946` | ![#E63946](https://via.placeholder.com/20/E63946/000000?text=+) |
-    | **Hitam Elegan** | `#4A4A4A` | ![#4A4A4A](https://via.placeholder.com/20/4A4A4A/000000?text=+) |
-    | **Hijau Alami** | `#A8C686` | ![#A8C686](https://via.placeholder.com/20/A8C686/000000?text=+) |
+    | Warna | Kode Hex |
+    |-------|---------|
+    | **Coklat Kayu** | `#8D5524` | 
+     | **Krem Muda** | `#F2ECE4` | 
+    | **Emas Klasik** | `#FFD700` |
+    | **Merah Bata** | `#E63946` | 
+    | **Hitam Elegan** | `#4A4A4A` | 
+    | **Hijau Alami** | `#A8C686` |
 
 ## Fitur
 - **Desain Minimalis**: Ikon dibuat sederhana namun tetap mencerminkan budaya Jawa.
