@@ -1,0 +1,28 @@
+[Icon Theme]
+Name=My Icon Theme
+Comment=Tema ikon kustom untuk Linux
+Inherits=Adwaita  
+
+Directories=scalable/apps, scalable/places, 16x16/apps, 32x32/apps
+
+# Konfigurasi untuk ikon scalable (SVG)
+[scalable/apps]
+Size=48
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[scalable/places]
+Size=48
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+# Konfigurasi untuk ikon kecil (PNG)
+[16x16/apps]
+Size=16
+Type=Fixed
+
+[32x32/apps]
+Size=32
+Type=Fixed
